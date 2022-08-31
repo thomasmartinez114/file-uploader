@@ -1,0 +1,5 @@
+- Installed:
+    - npm init -y
+    - npm i express express-fileupload
+    - npm i -D nodemon concurrently
+- Updated scripts to be "start"
